@@ -1,0 +1,817 @@
+[
+    {
+        "columns": [
+            "Level",
+            "Leather item",
+            "XP",
+            "needed",
+            "Total cost",
+            "Total",
+            "217",
+            "61,194"
+        ],
+        "rows": [
+            {
+                "Leather item": "",
+                "needed": "13.8",
+                "Total": "13,536",
+                "XP": "Gloves",
+                "Level": "1\u20137",
+                "Total cost": "48"
+            },
+            {
+                "Leather item": "",
+                "needed": "16.2",
+                "Total": "5,358",
+                "XP": "Boots",
+                "Level": "7\u20139",
+                "Total cost": "19"
+            },
+            {
+                "Leather item": "",
+                "needed": "18.5",
+                "Total": "5,922",
+                "XP": "Cowl",
+                "Level": "9\u201311",
+                "Total cost": "21"
+            },
+            {
+                "Leather item": "",
+                "needed": "22",
+                "Total": "9,588",
+                "XP": "Vambraces",
+                "Level": "11\u201314",
+                "Total cost": "34"
+            },
+            {
+                "Leather item": "",
+                "needed": "25",
+                "Total": "26,790",
+                "XP": "Body",
+                "Level": "14\u201320",
+                "Total cost": "95"
+            }
+        ]
+    },
+    {
+        "columns": [
+            "Level",
+            "Gem",
+            "XP",
+            "XP/h",
+            "# to next",
+            "GE Price",
+            "GP/XP",
+            "Uncut",
+            "Cut",
+            "Diff"
+        ],
+        "rows": [
+            {
+                "GP/XP": "250",
+                "Cut": "−11",
+                "Diff": "-0.22",
+                "XP": "Sapphire",
+                "XP/h": "50",
+                "Uncut": "239",
+                "Level": "20",
+                "Gem": "",
+                "GE Price": "106",
+                "# to next": "139,000"
+            },
+            {
+                "GP/XP": "477",
+                "Cut": "−27",
+                "Diff": "-0.40",
+                "XP": "Emerald",
+                "XP/h": "67.5",
+                "Uncut": "450",
+                "Level": "27",
+                "Gem": "",
+                "GE Price": "156",
+                "# to next": "187,650"
+            },
+            {
+                "GP/XP": "971",
+                "Cut": "−115",
+                "Diff": "-1.35",
+                "XP": "Ruby",
+                "XP/h": "85",
+                "Uncut": "856",
+                "Level": "34",
+                "Gem": "",
+                "GE Price": "355",
+                "# to next": "236,300"
+            },
+            {
+                "GP/XP": "2,189",
+                "Cut": "−436",
+                "Diff": "-4.06",
+                "XP": "Diamond",
+                "XP/h": "107.5",
+                "Uncut": "1,753",
+                "Level": "43",
+                "Gem": "",
+                "GE Price": "1082",
+                "# to next": "298,850"
+            },
+            {
+                "GP/XP": "15,692",
+                "Cut": "−4,174",
+                "Diff": "-30.36",
+                "XP": "Dragonstone",
+                "XP/h": "137.5",
+                "Uncut": "11,518",
+                "Level": "55",
+                "Gem": "",
+                "GE Price": "( 62) 1,216",
+                "# to next": "382,250"
+            },
+            {"Level": "( 77) 9,520"}
+        ]
+    },
+    {
+        "columns": [
+            "Level",
+            "Battlestaff",
+            "XP",
+            "XP/h",
+            "# to next",
+            "GE Price",
+            "GP/XP",
+            "Profit (HA)",
+            "Profit (HA)/XP",
+            "Buy",
+            "Sell",
+            "Diff"
+        ],
+        "rows": [
+            {
+                "Battlestaff": "",
+                "Profit (HA)/XP": "71",
+                "Profit (HA)": "9,090",
+                "GP/XP": "9,019",
+                "Sell": "181",
+                "Diff": "1.81",
+                "Buy": "0.71",
+                "XP": "Water",
+                "XP/h": "100",
+                "Level": "54",
+                "GE Price": "736",
+                "# to next": "245,000"
+            },
+            {
+                "Battlestaff": "",
+                "Profit (HA)/XP": "3",
+                "Profit (HA)": "9,076",
+                "GP/XP": "9,073",
+                "Sell": "127",
+                "Diff": "1.13",
+                "Buy": "0.03",
+                "XP": "Earth",
+                "XP/h": "112.5",
+                "Level": "58",
+                "GE Price": "972",
+                "# to next": "276,000"
+            },
+            {
+                "Battlestaff": "",
+                "Profit (HA)/XP": "−120",
+                "Profit (HA)": "9,090",
+                "GP/XP": "9,210",
+                "Sell": "−10",
+                "Diff": "-0.08",
+                "Buy": "-0.96",
+                "XP": "Fire",
+                "XP/h": "125",
+                "Level": "62",
+                "GE Price": "1300",
+                "# to next": "306,000"
+            },
+            {
+                "Battlestaff": "",
+                "Profit (HA)/XP": "−408",
+                "Profit (HA)": "9,071",
+                "GP/XP": "9,479",
+                "Sell": "−279",
+                "Diff": "-2.03",
+                "Buy": "-2.97",
+                "XP": "Air",
+                "XP/h": "137.5",
+                "Level": "66",
+                "GE Price": "( 77) 7123",
+                "# to next": "337,000"
+            }
+        ]
+    },
+    {
+        "columns": [
+            "Level",
+            "D'hide body",
+            "XP",
+            "XP/h",
+            "GE Price",
+            "GP/XP",
+            "Profit (HA)",
+            "Profit (HA)/XP",
+            "No [n 1]",
+            "With [n 2]",
+            "3t[n 3]",
+            "Buy",
+            "Sell",
+            "Diff"
+        ],
+        "rows": [
+            {
+                "Profit (HA)": "324,000",
+                "No [n 1]": "4,260",
+                "Buy": "−34",
+                "D'hide body": "",
+                "Profit (HA)/XP": "4,614",
+                "3t[n 3]": "-1.90",
+                "GP/XP": "317,000",
+                "Sell": "-0.18",
+                "XP": "Green",
+                "XP/h": "186",
+                "With [n 2]": "−354",
+                "Level": "63",
+                "GE Price": "313,000"
+            },
+            {
+                "Profit (HA)": "366,000",
+                "No [n 1]": "5,205",
+                "Buy": "−1,285",
+                "D'hide body": "",
+                "Profit (HA)/XP": "6,801",
+                "3t[n 3]": "-7.60",
+                "GP/XP": "358,000",
+                "Sell": "-6.12",
+                "XP": "Blue",
+                "XP/h": "210",
+                "With [n 2]": "−1,596",
+                "Level": "71",
+                "GE Price": "354,000"
+            },
+            {
+                "Profit (HA)": "408,000",
+                "No [n 1]": "6,143",
+                "Buy": "−2,077",
+                "D'hide body": "",
+                "Profit (HA)/XP": "8,715",
+                "3t[n 3]": "-10.99",
+                "GP/XP": "399,000",
+                "Sell": "-8.88",
+                "XP": "Red",
+                "XP/h": "234",
+                "With [n 2]": "−2,572",
+                "Level": "77",
+                "GE Price": "394,000"
+            },
+            {
+                "Profit (HA)": "450,000",
+                "No [n 1]": "7,423",
+                "Buy": "−6,664",
+                "D'hide body": "",
+                "Profit (HA)/XP": "14,652",
+                "3t[n 3]": "-28.02",
+                "GP/XP": "440,000",
+                "Sell": "-25.83",
+                "XP": "Black",
+                "XP/h": "258",
+                "With [n 2]": "−7,229",
+                "Level": "84",
+                "GE Price": "435,000"
+            }
+        ]
+    },
+    {
+        "columns": [
+            "Level",
+            "Item",
+            "XP",
+            "XP/h[n 1]",
+            "GE Price",
+            "GP/XP",
+            "Buy",
+            "Sell",
+            "Diff"
+        ],
+        "rows": [
+            {
+                "Item": "",
+                "GP/XP": "86",
+                "Sell": "−39",
+                "Diff": "-2.29",
+                "Buy": "47",
+                "XP": "Beer glass",
+                "Level": "1",
+                "XP/h[n 1]": "17.5",
+                "GE Price": "30,625"
+            },
+            {
+                "Item": "",
+                "GP/XP": "86",
+                "Sell": "−77",
+                "Diff": "-4.05",
+                "Buy": "9",
+                "XP": "Empty candle lantern",
+                "Level": "4",
+                "XP/h[n 1]": "19",
+                "GE Price": "33,250"
+            },
+            {
+                "Item": "",
+                "GP/XP": "86",
+                "Sell": "−82",
+                "Diff": "-3.28",
+                "Buy": "4",
+                "XP": "Empty oil lamp",
+                "Level": "12",
+                "XP/h[n 1]": "25",
+                "GE Price": "43,750"
+            },
+            {
+                "Item": "",
+                "GP/XP": "86",
+                "Sell": "−83",
+                "Diff": "-2.37",
+                "Buy": "3",
+                "XP": "Vial",
+                "Level": "33",
+                "XP/h[n 1]": "35",
+                "GE Price": "61,250"
+            },
+            {
+                "Item": "",
+                "GP/XP": "86",
+                "Sell": "−75",
+                "Diff": "-1.76",
+                "Buy": "11",
+                "XP": "Empty fishbowl",
+                "Level": "42",
+                "XP/h[n 1]": "42.5",
+                "GE Price": "74,375"
+            },
+            {
+                "Item": "",
+                "GP/XP": "86",
+                "Sell": "−10",
+                "Diff": "-0.19",
+                "Buy": "76",
+                "XP": "Unpowered orb",
+                "Level": "46",
+                "XP/h[n 1]": "52.5",
+                "GE Price": "91,875"
+            },
+            {
+                "Item": "",
+                "GP/XP": "86",
+                "Sell": "−74",
+                "Diff": "-1.35",
+                "Buy": "12",
+                "XP": "Lantern lens",
+                "Level": "49",
+                "XP/h[n 1]": "55",
+                "GE Price": "96,250"
+            },
+            {
+                "Item": "",
+                "GP/XP": "86",
+                "Sell": "−86",
+                "Diff": "-1.23",
+                "Buy": "Not sold",
+                "XP": "Empty light orb",
+                "Level": "87",
+                "XP/h[n 1]": "70",
+                "GE Price": "122,500"
+            }
+        ]
+    },
+    {
+        "columns": [
+            "Level",
+            "Bracelet",
+            "XP",
+            "XP/h",
+            "GE Price",
+            "GP/XP",
+            "Profit (HA)",
+            "Profit (HA)/XP",
+            "Buy",
+            "Sell",
+            "Diff"
+        ],
+        "rows": [
+            {
+                "Profit (HA)/XP": "144",
+                "Profit (HA)": "276",
+                "GP/XP": "132",
+                "Bracelet": "",
+                "Sell": "98",
+                "Diff": "3.92",
+                "Buy": "5.76",
+                "XP": "Gold",
+                "XP/h": "25",
+                "Level": "7",
+                "GE Price": "40,000"
+            },
+            {
+                "Profit (HA)/XP": "305",
+                "Profit (HA)": "986",
+                "GP/XP": "681",
+                "Bracelet": "",
+                "Sell": "−91",
+                "Diff": "-2.02",
+                "Buy": "2.77",
+                "XP": "Opal",
+                "XP/h": "45",
+                "Level": "22",
+                "GE Price": "63,000"
+            },
+            {
+                "Profit (HA)/XP": "196",
+                "Profit (HA)": "569",
+                "GP/XP": "373",
+                "Bracelet": "",
+                "Sell": "217",
+                "Diff": "3.62",
+                "Buy": "3.27",
+                "XP": "Sapphire",
+                "XP/h": "60",
+                "Level": "23",
+                "GE Price": "84,000"
+            },
+            {
+                "Profit (HA)/XP": "336",
+                "Profit (HA)": "649",
+                "GP/XP": "313",
+                "Bracelet": "",
+                "Sell": "367",
+                "Diff": "6.12",
+                "Buy": "3.05",
+                "XP": "Jade",
+                "XP/h": "60",
+                "Level": "29",
+                "GE Price": "84,000"
+            },
+            {
+                "Profit (HA)/XP": "198",
+                "Profit (HA)": "784",
+                "GP/XP": "586",
+                "Bracelet": "",
+                "Sell": "229",
+                "Diff": "3.52",
+                "Buy": "3.05",
+                "XP": "Emerald",
+                "XP/h": "65",
+                "Level": "30",
+                "GE Price": "91,000"
+            },
+            {
+                "Profit (HA)/XP": "762",
+                "Profit (HA)": "2,929",
+                "GP/XP": "2,167",
+                "Bracelet": "",
+                "Sell": "−1,367",
+                "Diff": "-18.23",
+                "Buy": "6.93",
+                "XP": "Topaz",
+                "XP/h": "75",
+                "Level": "38",
+                "GE Price": "105,000"
+            },
+            {
+                "Profit (HA)/XP": "228",
+                "Profit (HA)": "1,224",
+                "GP/XP": "996",
+                "Bracelet": "",
+                "Sell": "299",
+                "Diff": "3.74",
+                "Buy": "2.85",
+                "XP": "Ruby",
+                "XP/h": "80",
+                "Level": "42",
+                "GE Price": "112,000"
+            },
+            {
+                "Profit (HA)/XP": "185",
+                "Profit (HA)": "2,087",
+                "GP/XP": "1,902",
+                "Bracelet": "",
+                "Sell": "293",
+                "Diff": "3.08",
+                "Buy": "1.95",
+                "XP": "Diamond",
+                "XP/h": "95",
+                "Level": "58",
+                "GE Price": "133,000"
+            },
+            {
+                "Profit (HA)/XP": "184",
+                "Profit (HA)": "11,950",
+                "GP/XP": "11,766",
+                "Bracelet": "",
+                "Sell": "−391",
+                "Diff": "-3.55",
+                "Buy": "1.67",
+                "XP": "Dragonstone",
+                "XP/h": "110",
+                "Level": "74",
+                "GE Price": "154,000"
+            }
+        ]
+    },
+    {
+        "columns": [
+            "Level",
+            "Amethyst item",
+            "XP",
+            "XP/h",
+            "GE Price",
+            "GP/XP",
+            "Buy",
+            "Sell",
+            "Diff"
+        ],
+        "rows": [
+            {
+                "GP/XP": "3,426",
+                "Sell": "−411",
+                "Diff": "-6.85",
+                "Buy": "3,015",
+                "XP": "Bolt tips",
+                "XP/h": "60",
+                "Level": "83",
+                "Amethyst item": "",
+                "GE Price": "165,000"
+            },
+            {
+                "GP/XP": "3,426",
+                "Sell": "174",
+                "Diff": "2.90",
+                "Buy": "3,600",
+                "XP": "Arrowtips",
+                "XP/h": "60",
+                "Level": "85",
+                "Amethyst item": "",
+                "GE Price": "165,000"
+            },
+            {
+                "GP/XP": "3,426",
+                "Sell": "199",
+                "Diff": "3.32",
+                "Buy": "3,625",
+                "XP": "Javelin heads",
+                "XP/h": "60",
+                "Level": "87",
+                "Amethyst item": "",
+                "GE Price": "165,000"
+            },
+            {
+                "GP/XP": "3,426",
+                "Sell": "126",
+                "Diff": "2.10",
+                "Buy": "3,552",
+                "XP": "Dart tip",
+                "XP/h": "60",
+                "Level": "89",
+                "Amethyst item": "",
+                "GE Price": "165,000"
+            }
+        ]
+    },
+    {
+        "columns": [
+            "Quest",
+            "Experience reward",
+            "Crafting requirement",
+            "Other requirements",
+            "Total",
+            "135,143",
+            ""
+        ],
+        "rows": [
+            {
+                "Other requirements": "-",
+                "Crafting requirement": "-",
+                "Quest": "Sheep Shearer",
+                "Experience reward": "150"
+            },
+            {
+                "Other requirements": "-",
+                "Crafting requirement": "-",
+                "Quest": "Goblin Diplomacy",
+                "Experience reward": "200"
+            },
+            {
+                "Other requirements": "10",
+                "Crafting requirement": "-",
+                "Quest": "Tower of Life",
+                "Experience reward": "500"
+            },
+            {
+                "Other requirements": "25",
+                "Crafting requirement": "-",
+                "Quest": "In Search of the Myreque",
+                "Experience reward": "600"
+            },
+            {
+                "Other requirements": "-",
+                "Crafting requirement": "-",
+                "Quest": "Misthalin Mystery",
+                "Experience reward": "600"
+            },
+            {
+                "Other requirements": "-",
+                "Crafting requirement": "-",
+                "Quest": "Dwarf Cannon",
+                "Experience reward": "750"
+            },
+            {
+                "Other requirements": "18 , 30 , 35",
+                "Crafting requirement": "19",
+                "Quest": "Animal Magnetism",
+                "Experience reward": "1,000"
+            },
+            {
+                "Other requirements": "25",
+                "Crafting requirement": "20",
+                "Quest": "The Golem",
+                "Experience reward": "1,000"
+            },
+            {
+                "Other requirements": "-",
+                "Crafting requirement": "24",
+                "Quest": "Making History",
+                "Experience reward": "1,000"
+            },
+            {
+                "Other requirements": "49 , 20",
+                "Crafting requirement": "20",
+                "Quest": "Tears of Guthix",
+                "Experience reward": "1,000"
+            },
+            {
+                "Other requirements": "-",
+                "Crafting requirement": "-",
+                "Quest": "Recipe for Disaster (Goblin generals subquest)",
+                "Experience reward": "1,000"
+            },
+            {
+                "Other requirements": "31 , 42 (if making your own Fishbowl)",
+                "Crafting requirement": "-",
+                "Quest": "Recipe for Disaster (Pirate Pete subquest)",
+                "Experience reward": "1,000"
+            },
+            {
+                "Other requirements": "-",
+                "Crafting requirement": "-",
+                "Quest": "Murder Mystery",
+                "Experience reward": "1,406"
+            },
+            {
+                "Other requirements": "41 , 20",
+                "Crafting requirement": "-",
+                "Quest": "Recipe for Disaster (Skrach Uglogwee subquest)",
+                "Experience reward": "1,500"
+            },
+            {
+                "Other requirements": "10 , 30 , 34",
+                "Crafting requirement": "30",
+                "Quest": "Cold War",
+                "Experience reward": "2,000"
+            },
+            {
+                "Other requirements": "20 , 20 , 30",
+                "Crafting requirement": "36",
+                "Quest": "Enlightened Journey",
+                "Experience reward": "2,000"
+            },
+            {
+                "Other requirements": "15 , 7",
+                "Crafting requirement": "25",
+                "Quest": "In Aid of the Myreque",
+                "Experience reward": "2,000"
+            },
+            {
+                "Other requirements": "15 , 5",
+                "Crafting requirement": "20",
+                "Quest": "Shades of Mort'ton",
+                "Experience reward": "2,000"
+            },
+            {
+                "Other requirements": "-",
+                "Crafting requirement": "-",
+                "Quest": "Observatory Quest",
+                "Experience reward": "2,250"
+            },
+            {
+                "Other requirements": "16 , 33 , 14",
+                "Crafting requirement": "12",
+                "Quest": "The Giant Dwarf",
+                "Experience reward": "2,500"
+            },
+            {
+                "Other requirements": "-",
+                "Crafting requirement": "-",
+                "Quest": "The Fremennik Trials",
+                "Experience reward": "2,812.4"
+            },
+            {
+                "Other requirements": "30 , 50",
+                "Crafting requirement": "16",
+                "Quest": "The Great Brain Robbery",
+                "Experience reward": "3,000"
+            },
+            {
+                "Other requirements": "-",
+                "Crafting requirement": "18",
+                "Quest": "Nature Spirit",
+                "Experience reward": "3,000"
+            },
+            {
+                "Other requirements": "30 , 30 , 30",
+                "Crafting requirement": "30",
+                "Quest": "The Slug Menace",
+                "Experience reward": "3,500"
+            },
+            {
+                "Other requirements": "32 , 4",
+                "Crafting requirement": "20",
+                "Quest": "Shilo Village",
+                "Experience reward": "3,875"
+            },
+            {
+                "Other requirements": "26",
+                "Crafting requirement": "30",
+                "Quest": "Getting Ahead",
+                "Experience reward": "4,000"
+            },
+            {
+                "Other requirements": "20 , 20",
+                "Crafting requirement": "20",
+                "Quest": "Elemental Workshop I",
+                "Experience reward": "5,000"
+            },
+            {
+                "Other requirements": "20 , 40 , 56",
+                "Crafting requirement": "46",
+                "Quest": "The Fremennik Isles",
+                "Experience reward": "5,000"
+            },
+            {
+                "Other requirements": "32 , 34",
+                "Crafting requirement": "-",
+                "Quest": "Death on the Isle",
+                "Experience reward": "5,000"
+            },
+            {
+                "Other requirements": "42 , 50 , 40",
+                "Crafting requirement": "45",
+                "Quest": "Cabin Fever",
+                "Experience reward": "7,000"
+            },
+            {
+                "Other requirements": "45 , 43 , 39 , 45",
+                "Crafting requirement": "50",
+                "Quest": "Enakhra's Lament",
+                "Experience reward": "7,000"
+            },
+            {
+                "Other requirements": "20 , 30",
+                "Crafting requirement": "20",
+                "Quest": "Elemental Workshop II",
+                "Experience reward": "7,500"
+            },
+            {
+                "Other requirements": "17",
+                "Crafting requirement": "49",
+                "Quest": "The Hand in the Sand",
+                "Experience reward": "9,000"
+            },
+            {
+                "Other requirements": "60 , 60 , 60 , 55",
+                "Crafting requirement": "65",
+                "Quest": "The Fremennik Exiles",
+                "Experience reward": "50,000"
+            }
+        ]
+    },
+    {
+        "columns": [
+            "v \u2022 t \u2022 e Skill training guides",
+            "Free-to-play guides",
+            "Members' guides",
+            "Ironman Guides",
+            "Ultimate Ironman Guides",
+            "General guidelines"
+        ],
+        "rows": [
+            {"v \u2022 t \u2022 e Skill training guides": "Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft"},
+            {"v \u2022 t \u2022 e Skill training guides": "Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter"},
+            {"v \u2022 t \u2022 e Skill training guides": "Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter"},
+            {"v \u2022 t \u2022 e Skill training guides": "Item Management Equipment Quests Minigames Moneymaking Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter"},
+            {"v \u2022 t \u2022 e Skill training guides": "Efficiency"}
+        ]
+    }
+]

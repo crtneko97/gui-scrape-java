@@ -1,0 +1,50 @@
+plugins {
+    id 'java'
+    id 'application' // Required to run the application
+    id 'org.openjfx.javafxplugin' version '0.0.13' // JavaFX plugin for Gradle
+}
+
+group = 'com.runemate.bps'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    maven {
+        url 'https://repo.maven.apache.org/maven2/'
+    }
+    maven {
+        url 'https://maven.pkg.jetbrains.space/public/p/compose/dev'
+    }
+    maven {
+        url 'https://repo.gluonhq.com/nexus/repository/maven-central/'
+    }
+}
+
+dependencies {
+    implementation 'org.jsoup:jsoup:1.16.1'
+    implementation 'org.openjfx:javafx-controls:20.0.2'
+    implementation 'org.openjfx:javafx-fxml:20.0.2'
+    implementation 'org.json:json:20210307'  // Added org.json dependency for JSON handling
+    implementation 'com.google.code.gson:gson:2.10.1'  // You can check for the latest version
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17) // Use Java 17 or higher for compatibility
+    }
+}
+
+application {
+    mainClass = 'com.crawler.bps.Main' // Specify the main class for the application
+}
+
+javafx {
+    version = '20.0.2' // Use the correct version of JavaFX
+    modules = ['javafx.controls', 'javafx.fxml'] // Required JavaFX modules
+}
+
+test {
+    useJUnitPlatform()
+}
