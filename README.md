@@ -1,5 +1,5 @@
 # BPS-CRAWLER
-- By BPS|SK
+- simon
 
 ## Intro
 
